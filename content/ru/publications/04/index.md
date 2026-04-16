@@ -9,14 +9,14 @@ caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
 
-* admin
+- admin
 
 tags:
 
-* University
-* Programming
-* Scientific Computing
-* Data Analysis
+- University
+- Programming
+- Scientific Computing
+- Data Analysis
 
 ---
 
